@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Mario (@mkrapp)
+- 👀 I’m interested in numerical modelling of Earth system processes, business strategy and people development. 
+- 🌱 I’m currently learning about *agile* and *lean* values
+- 💞️ I’m looking to collaborate. 
+- 📫 How to reach me: [Email](mailto:mariokrapp@gmail.com), [Twitter](https://twitter.com/mkrapp3000), [Google Scholar](https://scholar.google.com/citations?user=Opzrl-cAAAAJ&hl=en)
+
+<!---
+mkrapp/mkrapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
